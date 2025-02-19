@@ -1,122 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea31617f-d8e1-414d-a7f5-187200c2ae75" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_freemarker_freemarker_2_3_25_incubating.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_4_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_aop_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_beans_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_context_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_core_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_expression_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_web_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/elementui-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/base/ResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/base/ResponseCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/base/ResponseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/base/ResponseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/config/ApiWhiteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/config/ApiWhiteData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/config/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/config/FilterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/config/FilterConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/controller/FileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/filter/HTTPBasicAuthorizeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/filter/HTTPBasicAuthorizeFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/utils/JWTUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/utils/JWTUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/utils/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/utils/JsonUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/utils/RSAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/utils/RSAUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/vo/MenuVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/vo/MenuVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/java/com/cxytiandi/elementui/vo/UserVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cxytiandi/elementui/vo/UserVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/build-qa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/dev-client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/dev-server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/build/webpack.test.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/config/test.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/assets/css/color-dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/components/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/components/Index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/components/common/Header.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/components/common/Sidebar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/components/user/Login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/components/user/UserInfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/components/user/Users.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/libs/AxiosPlugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/store/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/store/getters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/store/mutation-types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/src/store/mutations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/e2e/nightwatch.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/e2e/runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/e2e/specs/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/unit/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/unit/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/unit/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementui/vue-elementui/elementui-demo/test/unit/specs/Hello.spec.js" beforeDir="false" />
-    </list>
+    <list default="true" id="ea31617f-d8e1-414d-a7f5-187200c2ae75" name="Changes" comment="feat: 抽出后端" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main-front" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,6 +24,9 @@
     &quot;assignee&quot;: &quot;whd1996&quot;
   }
 }</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="e612b0f69f0351770de6bf91155b935130692e93" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/whd1996/vue-elementui.git&quot;,
@@ -162,21 +53,24 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.App.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\software\IdeaWorkSpace\vue-elementui" />
@@ -213,6 +107,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.App" />
+        <item itemvalue="Spring Boot.App" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +128,33 @@
       <option name="presentableId" value="Default" />
       <updated>1739981775251</updated>
       <workItem from="1739981776303" duration="188000" />
+      <workItem from="1739981969233" duration="789000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 抽出前端">
+      <option name="closed" value="true" />
+      <created>1739982044312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739982044312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 抽出前端">
+      <option name="closed" value="true" />
+      <created>1739982102639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739982102639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 抽出后端">
+      <option name="closed" value="true" />
+      <created>1739982462693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739982462693</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +171,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="main-front" />
                       </list>
                     </value>
                   </entry>
@@ -261,5 +182,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 抽出前端" />
+    <MESSAGE value="feat: 抽出后端" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 抽出后端" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
